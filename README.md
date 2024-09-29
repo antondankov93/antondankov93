@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Anton Dankov
 
-I’m a **Senior Frontend Engineer** based in NYC, with a strong passion for building scalable and delightful web and mobile experiences. I specialize in React, TypeScript, and modern frontend frameworks, and I’m dedicated to mentoring developers and setting up teams for success. 🚀
+I’m a **Senior Frontend Engineer 7+ years** based in NYC, with a strong passion for building scalable and delightful web and mobile experiences. I specialize in React, TypeScript, and modern frontend frameworks, and I’m dedicated to mentoring developers and setting up teams for success. 🚀
 
 ## 🔧 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
