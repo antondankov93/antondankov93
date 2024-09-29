@@ -31,7 +31,7 @@ I'm passionate about community development and open to **speaking engagements** 
 I believe that my **superpower** is meeting awesome people. Whether it's mentoring, consulting, or connecting with other developers, I thrive in building strong and meaningful relationships.
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anton-dankov/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anton-dankov/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:antondankov.career@gmail.com)
 
 Thanks for stopping by! Feel free to check out my repositories and connect! 😊
