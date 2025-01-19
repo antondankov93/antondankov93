@@ -15,7 +15,7 @@ I’m a **Senior Frontend Engineer 7+ YoE** based in NYC, with a strong passion 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🌱 What I’m Currently Working On
-- Building an **AI-powered video conferencing platform** using React, TypeScript, Agora SDK, and Socket.IO.
+- Building an **AI-powered video conferencing platform** using React, TypeScript, Python, Flask, MySQL, Agora SDK, and Socket.IO.
 - Exploring WebSocket integrations and real-time communication.
 - Working on A/B testing and feature flagging to boost business hypotheses
 
